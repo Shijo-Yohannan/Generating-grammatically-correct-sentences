@@ -1,0 +1,13 @@
+boy
+girl
+cat
+dog
+king
+frog
+soap
+bubble
+man
+woman
+computer
+hamster
+dinosuar
