@@ -4,7 +4,7 @@ Generating a grammatically intelligent is one small step towards the digital ass
 
 ## Introduction
 
-The code generates a random number, picking a word from a series of files in chronological logical order. The idea is to chose the right file with the random word chosen. Running the code each time generates a random grammatically correct sentence. One such sentence would be God is a frog or God is an eliphant, which is grammatically correct but does not have to make sense.
+The code generates a random number, picking a word from a series of files in chronological logical order. The idea is to chose the right file with the random word chosen. Running the code each time generates a random grammatically correct sentence. One such sentence would be God is a frog or God is an elephant, which is grammatically correct but does not have to make sense.
 
 ## Install:
 
